@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CodeCamp\\GrpcUserAuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60303A1D-044E-4AF6-95CF-9BECA1C56FF5}|GrpcClient\\GrpcClient.csproj|f:\\codecamp\\grpcuserauthdemo\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60303A1D-044E-4AF6-95CF-9BECA1C56FF5}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\protos\\calculator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\protos\\calculator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\services\\addserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\services\\addserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\obj\\Debug\\net8.0\\CalculatorGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GrpcClient\\obj\\Debug\\net8.0\\CalculatorGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\services\\stringserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\services\\stringserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60303A1D-044E-4AF6-95CF-9BECA1C56FF5}|GrpcClient\\GrpcClient.csproj|f:\\codecamp\\grpcuserauthdemo\\grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60303A1D-044E-4AF6-95CF-9BECA1C56FF5}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60303A1D-044E-4AF6-95CF-9BECA1C56FF5}|GrpcClient\\GrpcClient.csproj|f:\\codecamp\\grpcuserauthdemo\\grpcclient\\calculator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{60303A1D-044E-4AF6-95CF-9BECA1C56FF5}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\calculator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\protos\\calculator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\protos\\calculator.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\stringservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\stringservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|f:\\codecamp\\grpcuserauthdemo\\stringservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E1CCFE67-457A-468B-ABFE-91A101B32FB4}|StringService\\StringService.csproj|solutionrelative:stringservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\adderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\adderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|f:\\codecamp\\grpcuserauthdemo\\adderservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A91EFA2-A056-4065-86E2-9AD858D7CDCF}|AdderService\\AdderService.csproj|solutionrelative:adderservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StringService\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StringService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T14:32:35.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AdderService\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AdderService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T14:32:26.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorGrpc.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\obj\\Debug\\net8.0\\CalculatorGrpc.cs",
+              "RelativeDocumentMoniker": "GrpcClient\\obj\\Debug\\net8.0\\CalculatorGrpc.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\obj\\Debug\\net8.0\\CalculatorGrpc.cs",
+              "RelativeToolTip": "GrpcClient\\obj\\Debug\\net8.0\\CalculatorGrpc.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwGUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:30:04.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Program.cs",
+              "RelativeDocumentMoniker": "StringService\\Program.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Program.cs",
+              "RelativeToolTip": "StringService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:11:25.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\appsettings.json",
+              "RelativeDocumentMoniker": "AdderService\\appsettings.json",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\appsettings.json",
+              "RelativeToolTip": "AdderService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T14:10:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringServiceImpl.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Services\\StringServiceImpl.cs",
+              "RelativeDocumentMoniker": "StringService\\Services\\StringServiceImpl.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Services\\StringServiceImpl.cs",
+              "RelativeToolTip": "StringService\\Services\\StringServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:09:32.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "calculator.proto",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Protos\\calculator.proto",
+              "RelativeDocumentMoniker": "StringService\\Protos\\calculator.proto",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Protos\\calculator.proto",
+              "RelativeToolTip": "StringService\\Protos\\calculator.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-02T14:09:01.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "greet.proto",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "StringService\\Protos\\greet.proto",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Protos\\greet.proto",
+              "RelativeToolTip": "StringService\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-02T14:08:57.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StringService",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\StringService.csproj",
+              "RelativeDocumentMoniker": "StringService\\StringService.csproj",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\StringService.csproj",
+              "RelativeToolTip": "StringService\\StringService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T14:08:00.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\Program.cs",
+              "RelativeToolTip": "GrpcClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:05:30.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddServiceImpl.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Services\\AddServiceImpl.cs",
+              "RelativeDocumentMoniker": "AdderService\\Services\\AddServiceImpl.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Services\\AddServiceImpl.cs",
+              "RelativeToolTip": "AdderService\\Services\\AddServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:57:10.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculator.proto",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Protos\\calculator.proto",
+              "RelativeDocumentMoniker": "AdderService\\Protos\\calculator.proto",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Protos\\calculator.proto",
+              "RelativeToolTip": "AdderService\\Protos\\calculator.proto",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-02T13:56:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "StringService\\Services\\GreeterService.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\StringService\\Services\\GreeterService.cs",
+              "RelativeToolTip": "StringService\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:12:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "calculator.proto",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\calculator.proto",
+              "RelativeDocumentMoniker": "GrpcClient\\calculator.proto",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\calculator.proto",
+              "RelativeToolTip": "GrpcClient\\calculator.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-02T14:16:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrpcClient",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\GrpcClient.csproj",
+              "RelativeDocumentMoniker": "GrpcClient\\GrpcClient.csproj",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\GrpcClient\\GrpcClient.csproj",
+              "RelativeToolTip": "GrpcClient\\GrpcClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T14:18:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Program.cs",
+              "RelativeDocumentMoniker": "AdderService\\Program.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Program.cs",
+              "RelativeToolTip": "AdderService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:03:43.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdderService",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\AdderService.csproj",
+              "RelativeDocumentMoniker": "AdderService\\AdderService.csproj",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\AdderService.csproj",
+              "RelativeToolTip": "AdderService\\AdderService.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T13:58:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "AdderService\\Services\\GreeterService.cs",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Services\\GreeterService.cs",
+              "RelativeToolTip": "AdderService\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:57:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "greet.proto",
+              "DocumentMoniker": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "AdderService\\Protos\\greet.proto",
+              "ToolTip": "F:\\CodeCamp\\GrpcUserAuthDemo\\AdderService\\Protos\\greet.proto",
+              "RelativeToolTip": "AdderService\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-02T13:54:58.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

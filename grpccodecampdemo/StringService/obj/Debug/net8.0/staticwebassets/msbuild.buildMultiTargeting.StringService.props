@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StringService.props" />
+</Project>

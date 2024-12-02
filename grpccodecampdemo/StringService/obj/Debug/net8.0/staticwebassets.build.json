@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0s9JKElax1ds75KGCNNwYv3NUTQRjvzeuBP4xabeuiE=",
+  "Source": "StringService",
+  "BasePath": "_content/StringService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

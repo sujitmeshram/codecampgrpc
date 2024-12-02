@@ -1,0 +1,3 @@
+obj\Debug\net8.0/Userauth.cs \
+obj\Debug\net8.0/UserauthGrpc.cs: C:/Users/Sujit/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/timestamp.proto\
+ ../Protos/userauth.proto
